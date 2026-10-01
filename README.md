@@ -45,7 +45,7 @@ Rubika-self/
 
 ### ۲. اجرا در لینوکس (Linux / Arch / Ubuntu)
 ```bash
-git clone https://github.com/your-username/rubika-selfbot.git
+git clone https://github.com/Mhch8877/rubika-selfbot.git
 cd rubika-selfbot
 chmod +x start.sh
 ./start.sh
@@ -54,7 +54,7 @@ chmod +x start.sh
 ### ۳. اجرا در گوشی با ترموکس (Android Termux)
 ```bash
 pkg update && pkg install python git -y
-git clone https://github.com/your-username/rubika-selfbot.git
+git clone https://github.com/Mhch8877/rubika-selfbot.git
 cd rubika-selfbot
 pip install -r requirements.txt
 python selfbot.py
